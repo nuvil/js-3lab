@@ -1,16 +1,9 @@
-## 3 Лаба
-
 ## Run app 
 
 
 ```
 $ git clone https://github.com/nuvil/js-3lab
 ```
-
-```
-$ cd labi
-```
-
 ```
 $ npm i
 ```
