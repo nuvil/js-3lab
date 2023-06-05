@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/nuvil/labi/issues"
   },
-  "homepage": "https://github.com/nuvil/labi/tree/js-3lb#readme",
+  "homepage": "https://github.com/nuvil/js-3lab/tree/main#readme",
   "dependencies": {
     "commander": "^10.0.1"
   }
